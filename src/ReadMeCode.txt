@@ -1,1 +1,3 @@
-This folder is where all the code for this project will be saved. 
+This folder is where my initial and final version of the project will be stored.
+
+Please refer to file "PoissonFinal" for the final working code. 
