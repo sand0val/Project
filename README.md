@@ -6,7 +6,7 @@ The Poisson .m file in the main folder is the original code that was produced fo
 
 The following folders contain the the following included material
 
--project/doc/    (Contains the final report due for this course)
+-project/doc/    (Contains the final report due for this course and some plots/data from testing)
 
 -project/src/    (Contains the final working versions of my Poisson code)
 
