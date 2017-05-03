@@ -15,4 +15,4 @@ The following folders contain the the following included material
 -project/test/   (Contains all my test files before I had a succesfully running code, so there is many prototype files in this folder that                   illustrate my progress as the project went on)
 
 
-Please refer to file "PoissonFinal" inside the project/src folder for the final working version.
+Please refer to file "Johnathan_Sandoval_2D_Poisson_Code.mat" inside the project/src folder for the final working version.
